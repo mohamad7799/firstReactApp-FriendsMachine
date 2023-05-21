@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/firstReactApp-FriendsMachine/static/css/main.e26f412d.css",
+    "main.js": "/firstReactApp-FriendsMachine/static/js/main.ac6c6b14.js",
+    "static/media/SEGA.woff": "/firstReactApp-FriendsMachine/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/firstReactApp-FriendsMachine/index.html",
+    "main.e26f412d.css.map": "/firstReactApp-FriendsMachine/static/css/main.e26f412d.css.map",
+    "main.ac6c6b14.js.map": "/firstReactApp-FriendsMachine/static/js/main.ac6c6b14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e26f412d.css",
+    "static/js/main.ac6c6b14.js"
+  ]
+}
